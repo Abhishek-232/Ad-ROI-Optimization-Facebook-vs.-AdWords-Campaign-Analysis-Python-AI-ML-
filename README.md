@@ -7,7 +7,7 @@ As a marketing agency, our primary objective is to maximize the return on invest
 The dataset comprises a collection of data comparing the performance of two separate ad campaigns conducted throughout the year 2019. Specifically, the data covers a Facebook Ad campaign and an AdWords Ad campaign,For each day of the year 2019, there is a corresponding row in the dataset, resulting in a total of 365 lines of campaign data to analyze. The dataset includes various performance metrics for each ad campaign, providing insights into their effectiveness and efficiency over time.
 
 ## Approach :
-• Conducted A/B testing analysis for marketing agency on annual Facebook and AdWords campaigns, analyzing daily data and KPIs to demonstrate cost-effectiveness of the superior platform through statistical evidence, enabling data-driven decisions for clients • Optimized resource allocation, resulting in 30% increase in conversions and 15% reduction in costs, enhancing client ROI
+Conducted A/B testing analysis for marketing agency on annual Facebook and AdWords campaigns, analyzing daily data and KPIs to demonstrate cost-effectiveness of the superior platform through statistical evidence, enabling data-driven decisions for clients. Optimized resource allocation, resulting in 30% increase in conversions and 15% reduction in costs, enhancing client ROI
 
 ## Technical Aspects :
 1) Pandas
